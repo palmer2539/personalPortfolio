@@ -2,6 +2,8 @@ div {
     background-color:aquamarine;
     border-style: groove;
     text-align: center;
+    font-family: SF Pro;
+    /* font-family: New York; */
 }
 h1 {
     color: rgb(25, 14, 245);
