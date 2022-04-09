@@ -1,22 +1,25 @@
 div {
     background-color:aquamarine;
     border-style: groove;
+    text-align: center;
 }
 h1 {
     color: rgb(25, 14, 245);
-    
+    font-size: 64px;
 }
 h2 {
     color: blueviolet;
+    font-size: 48px;
 }
 
 h3 {
     color: orange;
-
+    font-size: 36px;
 }
 
 p {
     color: red;
+    font-size: 30px;
 }
 
 hr {
