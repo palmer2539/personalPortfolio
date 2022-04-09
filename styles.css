@@ -1,0 +1,24 @@
+div {
+    background-color:aquamarine;
+    border-style: groove;
+}
+h1 {
+    color: rgb(25, 14, 245);
+    
+}
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: orange;
+
+}
+
+p {
+    color: red;
+}
+
+hr {
+    color: yellow;
+}
